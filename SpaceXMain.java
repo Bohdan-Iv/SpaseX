@@ -8,9 +8,10 @@ public class SpaceXMain {
         SpaceShip_2 spaceShip_2= new SpaceShip_2(2500,3,2000);
         SpaceShip_2_1 spaceShip_2_1=new SpaceShip_2_1(2600,4,3500);
         SpaceShip_2_2 spaceShip_2_2=new SpaceShip_2_2(3500,8,8000);
+        System.out.println(dfmdf);
 
 
-        System.out.println( "-----"+  spaceShip_1.maxSpeed);
+        System.out.println( "-gfhfghfg----"+  spaceShip_1.maxSpeed);
 
 
 
